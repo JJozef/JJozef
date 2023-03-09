@@ -1,7 +1,7 @@
 <div id='header' align='center'> 
     <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ0MmU4MzcyZDg3MjVkYzcxYTgxYjlhNmQ5NTI2YzI0MjFjOTlhOCZjdD1n/l0He4nkyI5cMhXzvW/giphy.gif' width='200'>
     <h1 align='center'>¡Hey 👋! Soy Jose Ingacio</h1>
-    <h3 align='center'>Soy ** Desarrollador Web **.</h3>
+    <h3 align='center'>Soy *Desarrollador Web*.</h3>
 </div>
 
 <div id='badges' align='center'>
