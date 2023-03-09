@@ -1,5 +1,5 @@
 <div id='header' align='center'> 
-    <img src='https://giphy.com/embed/l0He4nkyI5cMhXzvW' width='200'>
+    <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ0MmU4MzcyZDg3MjVkYzcxYTgxYjlhNmQ5NTI2YzI0MjFjOTlhOCZjdD1n/l0He4nkyI5cMhXzvW/giphy.gif' width='200'>
     <h1 align='center'>Hola 👋, soy Jozef (Jose Ingacio)</h1>
     <h3 align='center'>Un apasionado desarrollador web de Chile.</h3>
 </div>
