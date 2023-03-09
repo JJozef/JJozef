@@ -20,7 +20,7 @@
 - 🤖 Experiencia en el uso de lenguajes como, **JavaScript, Next.js, PHP, Laravel**.
 - 👾 Me apasiona mucho jugar y hacer streamings de videojuegos, además de la programación.
 - 🔭 En el futuro, me gustaría trabajar en proyectos desafiantes que me permitan seguir aprendiendo y creciendo como programador.
-- 🌐 Mi website: [Pronto!]()
+- 🌐 Mi website: [Pronto!]
 
 <div align='left'>
     <h3>🔨 Lenguajes and Tools:</h3>
