@@ -16,9 +16,8 @@
 ---
 ### 🪪 About Me :
 
-- 👋 Hola, mi nombre es **Jose Ignacio** y soy de Chile.
-- 🤖 Experiencia en el uso de lenguajes como, **JavaScript, Next.js, PHP, Laravel**.
-- 👾 Me gusta jugar y hacer streamings de videojuegos, además de la programación.
+- 👋 Hola, mi nombre es **Jose Ignacio**, Soy de Chile.
+- 🤖 Lenguajes, **JavaScript, Next.js, PHP, Laravel**.
 - 🌐 Mi website: [Pronto!]
 
 <div align='left'>
