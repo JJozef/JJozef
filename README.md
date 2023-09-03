@@ -14,8 +14,7 @@
 ### 🪪 About Me :
 
 - 👋 Hola, mi nombre es **Jose Ignacio**, Soy de Chile.
-- 🤖 Lenguajes, **JavaScript, Next.js, PHP, Laravel**.
-- 🌐 Mi website: [Pronto!]
+- 🌐 Mi website: [joseignacio.dev](https://joseignacio.dev/)
 
 <div align='left'>
     <h3>🔨 Lenguajes and Tools :</h3>
