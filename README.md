@@ -8,9 +8,6 @@
     <a href='https://twitter.com/Jozefzin' target="_blank">
         <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Jozefzin?logo=twitter&style=social" />
     </a>
-    <a href='https://www.twitch.tv/jjjozef' target="_blank">
-        <img alt="Twitch Status" src="https://img.shields.io/twitch/status/jjjozef?style=social" />
-    </a>
 </div>
 
 ---
