@@ -21,6 +21,7 @@
     <div>
         <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' title='Javascript' alt='Javascript' width='40' height='40'/>&nbsp;
         <img src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg' title='Nextjs' alt='Nextjs' width='40' height='40'/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg"  title='Astro' alt='Astro' width='40' height='40'/>&nbsp;
         <img src='https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg' title='Tailwindcss' alt='Tailwindcss' width='40' height='40'/>&nbsp;
     </div>
 </div>
