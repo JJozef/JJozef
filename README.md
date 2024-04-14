@@ -1,4 +1,4 @@
-![GitHub Readme Banner](https://github-production-user-asset-6210df.s3.amazonaws.com/83909388/318301884-cfc8e6ce-df39-49b4-8ce7-6f540b9bf34f.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240413%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240413T235330Z&X-Amz-Expires=300&X-Amz-Signature=4e1745f9e2214e1497d2c5e5b59fa4ce231070aa48376ab6dd64505e0105cd3f&X-Amz-SignedHeaders=host&actor_id=101532359&key_id=0&repo_id=780136172)
+![GitHub Readme Banne](https://github.com/JJozef/JJozef/assets/101532359/9d8efa9e-098f-4911-8709-c74985ad406f)
 
 
 ## 👋Sobre mí
