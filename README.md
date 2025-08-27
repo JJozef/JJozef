@@ -2,7 +2,7 @@
 
 ## 👋Sobre mí
 
--🔭 Actualmente, estoy trabajando en mejorar mis **habilidades de frontend**.<br/>-🌱 Actualmente estoy aprendiendo **NextJS**.<br/>-💻 Estoy interesado en colaborar en **proyectos de código abierto**.<br/><br/><br/>
+-🔭 Actualmente, estoy trabajando en mejorar mis **habilidades de frontend**.<br/>-🌱 Actualmente estoy aprendiendo **NextJS**.<br/>-💻 Estoy interesado en colaborar en **proyectos de código abierto**.<br/><br/>
 [![](https://visitcount.itsvg.in/api?id=jjozef&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## ⚙Tecnologías
